@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886744852431",
+    "project_id": "spherical-list-256901",
+    "storage_bucket": "spherical-list-256901.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886744852431:android:36d539dadd2a4ae98514ba",
+        "android_client_info": {
+          "package_name": "com.udb.foro2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIX8qZ8mdCZobFIG4q2StTQO_eKUedaRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
